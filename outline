@@ -1,0 +1,54 @@
+Inn Reach Training Outline Draft—Circulation training 
+
+Overview: Diagram of the flow of materials (Emily)
+Patrons:
+ Place holds
+	Search in local catalog first, then move to LILINK catalog. 
+	Choose Home Library, then authenticate with (name and) barcode
+
+Lending library:
+Print Paging slips
+Pull items
+Check out in InnReach.  This is an Institutional check out.
+The paging slip doubles as a Transit slip, so place it in the item, and place the item in the shipping box.
+
+Borrowing library:
+Receiving a LILINK item	
+	-Check in with the rest of your ILLs—can be done with any circulation login, any initials
+	-Hold slip will print
+	-Place on Holdshelf
+	-Notices work the same as usual, email notices will be queued for the next day, text notices will 	go out immediately, and you should call any patron that normally receives phone notifications.    
+Checking out a LILINK Item
+	In patron’s record, in the Check Out Tab, scan the item barcode. 
+	Complete the patron’s transaction
+	Due date receipt prints
+		*Must go out on the card of the patron who requested the item
+Renewing LILINK item
+One renewal is allowed, patron can do this in their Patron Account, or you can renew in the Checked-Out tab 
+Checking In a LILINK item
+	Scan the item in the Check In screen
+	A pop-up message will tell you where the item needs to go. 	
+	Print a transit slip (auto?) 	
+	Place in the shipping box. 
+
+Clearing the LILINK Holdshelf
+	Report
+	Pull items
+	Check in in the INNREACH mode
+	Print transit slips
+	Place in the shipping box.
+
+Reports: 
+Institutional Overdue Report	
+For items that have been checked out to other libraries for longer than the Institutional Loan Period,
+Paged too Long Report
+	Items that have been paged from your library, but have not been sent or cancelled. 
+Returned too long report
+	Shows items your patron has returned, but that have not been checked in by the owning library
+Requested Too Long Report
+	Items that your patrons have requested, that have not been filled
+In Transit too long Report
+	These items have been sent to the lending library, but have not arrived at the lending library.
+Received too long report
+	These are items that have been waiting to be picked up for longer than () days.
+
